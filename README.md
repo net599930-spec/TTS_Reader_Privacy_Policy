@@ -90,4 +90,4 @@ I may update this Privacy Policy in the future. Any changes will be reflected he
 
 If you have any questions about this Privacy Policy, you can contact me at:
 
-**[your email here]**
+**forgeapp45@gmail.com**
