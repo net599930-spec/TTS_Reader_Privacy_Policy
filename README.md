@@ -1,5 +1,3 @@
-# Privacy Policy
-
 **Last updated: February 8, 2026**
 
 This Privacy Policy explains how my EPUB Text-to-Speech Reader app (“the App”) handles your data.
