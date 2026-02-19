@@ -1,91 +1,85 @@
 **Last updated: February 8, 2026**
 
-This Privacy Policy explains how my EPUB Text-to-Speech Reader app (“the App”) handles your data.
+This Privacy Policy describes how the Simple EPUB TTS application (“the App”) handles user data.
 
-I respect your privacy. The App is designed to work fully offline and does **not collect, store, or share any personal information.**
+The App is designed to operate fully offline and does **not collect, store, or share personal information.**
 
 ---
 
 ## File Access
 
-The App requests permission to access files on your device only so you can import EPUB books that you choose.
+The App requests permission to access files on the device solely to allow EPUB books selected by the user to be imported.
 
 Specifically:
 
-- File access is used solely to let you select and open EPUB files.
-- Imported books remain stored locally on your device.
-- Your files are never uploaded, transmitted, or backed up to any server.
+- File access is used only to select and open EPUB files chosen by the user.
+- Imported books remain stored locally on the device.
+- Files are never uploaded, transmitted, or backed up to external servers.
 
 ---
 
 ## How the App Works
 
-After importing an EPUB file, the App allows you to:
+After an EPUB file is imported, the App provides the ability to:
 
-- Read the book inside the app  
-- Listen to the book using your device’s built-in Text-to-Speech engine  
-- Change voices, languages, and speaking speed (handled entirely by your device)  
-- Adjust reading themes  
-- Search within the book  
+- Read books within the App  
+- Listen to books using the device’s built-in Text-to-Speech engine  
+- Adjust voices, languages, and speaking speed through device settings  
+- Customize reading themes  
+- Search within book content  
 
-All features operate locally on your device.
+All functionality operates locally on the device.
 
 ---
 
 ## Text-to-Speech
 
-Text-to-Speech is provided by your operating system’s built-in TTS service. The App does not send any text externally.
+Text-to-Speech functionality is provided by the operating system’s built-in Text-to-Speech service. The App does not transmit book content or text externally.
 
-Any voices or language data are managed by your device.
+Voice and language data are managed entirely by the device’s operating system.
 
 ---
 
 ## Data Collection
 
-I do **not** collect:
+The App does **not** collect:
 
 - Personal information  
-- Account data  
+- Account information  
 - Usage analytics  
 - Book content  
 - Audio recordings  
 
-The App does not use third-party analytics or advertising SDKs.
+The App does not include third-party analytics services or advertising SDKs.
 
 ---
 
 ## Data Sharing
 
-I do not share any data with third parties.
+No user data is shared with third parties.
 
 ---
 
 ## Children’s Privacy
 
-The App does not knowingly collect any personal information from anyone, including children.
-
----
-
-## GDPR & CCPA
-
-Because no personal data is collected, stored, or processed, GDPR and CCPA requirements do not apply to this App.
+The App does not knowingly collect personal information from any users, including children.
 
 ---
 
 ## Security
 
-All books and settings stay on your device. Nothing is transmitted externally.
+Books, preferences, and settings remain stored locally on the device. No data is transmitted externally by the App.
 
 ---
 
 ## Changes to This Policy
 
-I may update this Privacy Policy in the future. Any changes will be reflected here with an updated date.
+This Privacy Policy may be updated periodically. Any updates will be reflected on this page with a revised “Last updated” date.
 
 ---
 
 ## Contact
 
-If you have any questions about this Privacy Policy, you can contact me at:
+Questions regarding this Privacy Policy may be directed to:
 
 **forgeapp45@gmail.com**
