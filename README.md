@@ -2,7 +2,7 @@
 
 This Privacy Policy describes how the 'EPUB/PDF Reader: Offline TTS' application ("the App") handles user data.
 
-The App works offline. It does **not collect, store, or share personal information.** A few optional features (downloading dictionaries and fonts) use the internet only when you choose to use them, as described below.
+The App works offline. It does **NOT** collect, store, or share personal information. A few optional features (downloading dictionaries and fonts) use the internet only when you choose to use them, as described below.
 
 ---
 
@@ -70,7 +70,7 @@ Voice and language data are managed entirely by the device's operating system an
 
 ## Data Collection
 
-The App does **not** collect:
+The App does **NOT** collect:
 
 - Personal information
 - Account information
